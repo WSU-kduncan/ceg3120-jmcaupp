@@ -19,8 +19,8 @@ commit:  'save' changes in the index to the repository
 	git commit
 
 push:  used to upload content to a remote repository
-	git push origin
 
+	git push origin
 
 fetch:  used to check a remote repository for changes made to it.
 
