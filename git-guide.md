@@ -14,6 +14,11 @@ rm:  removes files from the index and the working tree. Must be at the end of th
 
 	git rm 'filename'
 
+rm --cached: removes file from index without removing it from the directory. (Will delete committed file, but will not delete it on your system)
+
+	git rm --cached 'filename'
+
+
 commit:  'save' changes in the index to the repository
 
 	git commit
