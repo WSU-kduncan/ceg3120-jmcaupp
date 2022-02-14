@@ -1,6 +1,6 @@
 # Part One:
 
-###VPC
+### VPC
 ![VPC](https://github.com/WSU-kduncan/ceg3120-jmcaupp/blob/main/Project2/images/VPC.png)
 
 A subnet was created:
