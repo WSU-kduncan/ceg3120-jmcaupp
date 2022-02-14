@@ -48,3 +48,5 @@ The final step after clicking Launch is to ensure you have key pairs set up to u
 
 #### Elastic IP
 Now is the time to generate and associate an Elastic IP address. Under Network & Security, select Elastic IPs. Click Allocate Elastic IP Address, don't forget to give it a name tag, and click Allocate again. Once it is allocated, select it click the dropdown Actions menu and associate it to your newly created instance.
+
+![instance](https://github.com/WSU-kduncan/ceg3120-jmcaupp/blob/main/Project2/images/Instance.png)
