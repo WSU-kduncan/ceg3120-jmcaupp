@@ -50,3 +50,10 @@ The final step after clicking Launch is to ensure you have key pairs set up to u
 Now is the time to generate and associate an Elastic IP address. Under Network & Security, select Elastic IPs. Click Allocate Elastic IP Address, don't forget to give it a name tag, and click Allocate again. Once it is allocated, select it click the dropdown Actions menu and associate it to your newly created instance.
 
 ![instance](https://github.com/WSU-kduncan/ceg3120-jmcaupp/blob/main/Project2/images/Instance.png)
+
+
+### Changing the Hostname
+I used ssh to connect to my new instance using the generated key, the default user name, and the elastic IP address. Then the hostname command was used to update the hostname. After exiting and reconnecting the hostname had been updated.
+
+![ssh](https://github.com/WSU-kduncan/ceg3120-jmcaupp/blob/main/Project2/images/ssh.png)
+
